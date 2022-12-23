@@ -26,7 +26,7 @@
     "TZ": "str?"
   },
   "slug": "guacamole",
-  "url": "https://github.com/alexbelgium/hassio-addons",
+  "url": "https://github.com/davewatson91/hassio-addons",
   "version": "1.4.2-7",
   "video": true,
   "webui": "[PROTO:ssl]://[HOST]:[PORT:8080]"
